@@ -13,19 +13,20 @@
 - Week 1
   - Variables, Operators, Expressions, Basic Types
   - Conditionals
+- Week 2
   - Strings and Text Processing
   - Loops and Arrays
-- Week 2
   - Project Week
 - Week 3
+  - Methods 
   - Intro to OOP
   - Building Classes - Methods and Properties
-  - Lists and Dictionaries
 - Week 4
+  - Lists and Dictionaries
   - Project Week
 - Week 5
-  - Project work
-  - Inheritance
+  - Inheritance & Polymorphism
+  - Abstraction 
 - Week 6
   - Inheritance
   - Project work
@@ -54,13 +55,10 @@
 - Week 14
   - Project Week
 - Week 15
-  - Deployment
-  - AJAX
-  - JSON and APIs
+  - AJAX, JSON and APIs
+  - Paired Programming 
 - Week 16
   - Flex Week
-  - Building Classes - Methods and Properties
-  - StringBuilder and RegEx
 - Weeks 17-20
   - Final Project
   - Scrum

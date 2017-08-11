@@ -1,8 +1,8 @@
 # Curriculum Overview
 
-- 15 weeks of guided instruction
+- 16 weeks of guided instruction
   - 4 days of guided instruction per week and/or pickup lessons
-- 5 weeks of team-based projects
+- 4 weeks of team-based projects
   - Scrum practice for teams: 4 day sprints, retrospectives
   - Staff acting as scrum masters/product owners
 
@@ -71,7 +71,7 @@ Start Date: Monday, August 14, 2017
 Days off:
 - September 4 
 - November 22-24
-- December 25 to January 1 
+- December 22 to January 1 
 - MLK Day January 15
 
 Last Day: Tuesday, January 16, 2018 

@@ -15,27 +15,29 @@
   - Conditionals
 - Week 2
   - Strings and Text Processing
-  - Loops and Arrays
   - Project Week
 - Week 3
-  - Methods 
+  - Arrays and Loops
+  - Methods
   - Intro to OOP
-  - Building Classes - Methods and Properties
 - Week 4
-  - Lists and Dictionaries
+  - Building Classes - Methods and Properties
+  - RegEx*
+  - StringBuilder*
   - Project Week
 - Week 5
+  - Lists and Dictionaries
   - Inheritance & Polymorphism
-  - Abstraction 
 - Week 6
-  - Inheritance
-  - Project work
+  - Abstraction 
+  - Exceptions*
+  - Project Week
 - Week 7
   - HTML
   - CSS
 - Week 8
   - Bootstrap
-  - Project work
+  - Project Week
 - Week 9
   - MVC
   - Razor

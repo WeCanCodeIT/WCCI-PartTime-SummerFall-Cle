@@ -88,13 +88,11 @@ You are required to attend a minimum of 90% of class time to be eligible for gra
 
 In order to pass the course, you must receive a grade of 70% or higher averaged over all graded material.
 
-## Projects
-
-Projects are graded by WCCI staff. Projects are typically worth 100 points. 90 points of each project will be determined by the tasks that are completed, with attempts resulting in partial credit for a given task. The final 10 points of each project are determined by overall code quality, including code readability, proper variable names, and comments when necessary.
-
 ## Submission Policy
 
-Students are required to submit all projects using the submission form provided by the instructors. If a student's project is not submitted through the submission form, despite completion, it will maintain a status of not turned in or incomplete, and received point deductions based on the late and incomplete project policy. Any project that is turned in and does not run (i.e. turned in with build errors) will be returned to the student for resubmission and receive point deductions for any lateness that may occur.
+Students are required to submit all *assignments using the submission method provided by the instructors. If a student's assignment is not submitted using the proper submission method, despite completion, it will maintain a status of not turned in or incomplete, and receive point deductions based on the late and incomplete assignment policy. Any assignment that is turned in and does not run (i.e. turned in with build errors) will be returned to the student for resubmission and receive point deductions for any lateness that may occur.
+
+*Assignments can include all graded material
 
 ### Regarding late and incomplete projects, We Can Code IT’s policy is as follows:
 * For each day after the project is due, the grade will automatically be deducted by 10 percentage points of the maximum possible score.
@@ -102,7 +100,7 @@ Students are required to submit all projects using the submission form provided 
   * That project is then considered an additional day late starting at 9:31 on Tuesday morning, thereby being two days late.
 * After a project is five days late (using the above example, this would be Friday at 9:31 am), the project is automatically scored at a 0/100 or 0%.
 * If a student knows in advance that she or he will not be able to submit the project by its due date, that student is required to notify the instructors via email as soon as possible.
-* Extensions on project submissions will be given with the Education Team’s discretion in the case of extenuating circumstances.
+* Extensions on assignments submissions may be given at the Education Team’s discretion in the case of extenuating circumstances.
 
 ## Unsatisfactory Progress Probationary Period
 If a student is failing a portion of the program, the student will be placed on academic probation. During this time period, the student will be put on a remediation plan and is expected to complete and pass any portion of the class in which the student has failed. If the student cannot resolve his or her failing status satisfactorily, he or she may be dismissed from the program.  The student may be eligible for a refund based upon our stated refund policies.

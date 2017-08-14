@@ -1,4 +1,4 @@
-#Expectations for Yourself
+# Expectations for Yourself
 - Increase knowledge of code
 - Don't be afraid to ask questions!
 - Network and take advantage of career services
@@ -7,7 +7,7 @@
 - Believe in your own abilities to learn!
 - Put in 100% effort, focus, no regrets!
 - Engage with cohort members 
-#Expectations for Your Peers
+# Expectations for Your Peers
 - Listen to other people
 - Keep a positive attitude 
 - Be respectful of other people and the things that challenge them.
@@ -16,7 +16,7 @@
 - Stay on topic
 - Be patient with each other 
 - Be conscious of smells and personal space in a small question 
-#Expectations for Your Instructors
+# Expectations for Your Instructors
 - Patience 
 - Upfront and honest
 - Help to create a porfolio 

@@ -71,22 +71,22 @@
 Start Date: Monday, August 14, 2017
 
 Days off:
-- September 4 
-- November 22-24
-- December 22 to January 1 
-- MLK Day January 15
+- September 4 (Labor Day)
+- November 22-24 (Thanksgiving Break)
+- December 22 to January 1, 2018 (Winter Break)
+- January 15, 2018 (MLK Day)
 
 Last Day: Tuesday, January 16, 2018 
 
-Career Day: Friday,January 19, 2018
+Career Day: Friday, January 19, 2018
 
 # Grading Policy
 
 Class is from 5:30pm-9:00pm Monday-Thursday, with the exception of holidays on which we will not be having class.
 
-You are required to attend a minimum of 90% of class time to be eligible for graduation. Please inform your instructor and TA if extenuating circumstances arise.
+You are required to attend a minimum of 90% of class time to be eligible for graduation. Please inform your instructors if extenuating circumstances arise.
 
-In order to pass the course, you must receive a grade of 70% or higher averaged over all the assignments. In addition, you must receive a grade of 70% or higher on the final project.
+In order to pass the course, you must receive a grade of 70% or higher averaged over all the assignments.
 
 ## Projects
 
@@ -105,7 +105,7 @@ Students are required to submit all projects using the submission form provided 
 * Extensions on project submissions will be given with the Education Team’s discretion in the case of extenuating circumstances.
 
 ## Unsatisfactory Progress Probationary Period
-If a student is failing a portion of the program, the student will be placed on academic probation for two weeks. In this time period, the student will be put on a remediation plan and is expected to complete and pass any portion of the class in which the student has failed. If the student cannot resolve his or her failing status satisfactorily, he or she may be dismissed from the program.  The student may be eligible for a refund based upon our stated refund policies.
+If a student is failing a portion of the program, the student will be placed on academic probation. During this time period, the student will be put on a remediation plan and is expected to complete and pass any portion of the class in which the student has failed. If the student cannot resolve his or her failing status satisfactorily, he or she may be dismissed from the program.  The student may be eligible for a refund based upon our stated refund policies.
 
 ## Final Projects
 
@@ -128,8 +128,7 @@ Free Digital Textbook
 
 Instructor Emails:
 - Jordan@wecancodeit.org
-- Lauren@wecancodeit.org
-- Daniel@Wecancodeit.org
+- Lily@wecancodeit.org
 - Anne@wecancodeit.org (Campus Director)
 
 © 2017 We Can Code IT ALL RIGHTS RESERVED

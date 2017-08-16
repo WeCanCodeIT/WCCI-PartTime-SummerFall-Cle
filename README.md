@@ -5,9 +5,8 @@
 - 4 weeks of team-based projects
   - Scrum practice for teams: 4 day sprints, retrospectives
   - Staff acting as scrum masters/product owners
-
+  - [Road Map](https://docs.google.com/spreadsheets/d/1VyAQAxtouDMwlcVZy1FaSFs1LpUIxEK-s5OD38Dl7Ro/edit?usp=sharing)
 # Weekly Breakdown
-
 (Always subject to change)
 
 - Week 1

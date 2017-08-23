@@ -1,5 +1,5 @@
 # Fortune Teller
-## Due: Tuesday, August 28, 2017 By 5:30 PM
+## Due: Monday, August 28, 2017 By 5:30 PM
 ### - [GitHub Submission Link](https://docs.google.com/forms/d/e/1FAIpQLScUEvl_ZgH_OgBu0zbg_WIvB6zBSkkXh7wfxqjv4LwLdBDxLg/viewform)
 
 ## Overview

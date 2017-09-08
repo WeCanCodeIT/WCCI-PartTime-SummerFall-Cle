@@ -48,10 +48,6 @@ Some ideas for things that a virtual pet should have (along with some ideas for 
 
 Your methods should cause the appropriate properties to update - for instance, if you have a `Feed()` method, it might make `Hunger` go down, but make `Thirst` go up.
 
-Other properties that might update when `Tick` is called:
-  - boredom increasing
-  - hunger increasing
-  - sleepiness increasing
 
 If you play with the pet, perhaps that makes it more tired. Have fun with this part!
 
@@ -91,6 +87,11 @@ You feed Horace.
  `Tick()` will update any properties or call time-based methods. The idea behind this method is that every time the menu is shown or some user interaction occurs, you could call the `Tick()` method to cause properties to update. You may want to have some of the properties update randomly to make the virtual pet less predictable.
 Pets are not robots - they usually have some sort of self-determination! When `Tick` is called, you might want to have your pet take a look at its needs and possibly address one. You could use a random number generator to have it do things randomly, or prioritize things based upon what need is highest. You could also make your pet uncooperative - when the user tries to feed the pet, for example, you might make the pet refuse to eat.
 
+Other properties that might update when `Tick` is called:
+  - boredom increasing
+  - hunger increasing
+  - sleepiness increasing
+  
 Rather than using numbers to convey your pet's status, you could have some sort of visual representation of the pet. I.e., instead of printing `hunger: 50`, you could use smileys or [ASCII art](https://en.wikipedia.org/wiki/ASCII_art) to show hunger when `hunger >= 50`.
 ```
      >=<        

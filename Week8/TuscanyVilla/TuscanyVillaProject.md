@@ -26,7 +26,6 @@ Given some mockups from a designer create a close approximation of a website. Ut
 - [ ] Include photos appropriately
 - [ ] Google Font
 - [ ] Closely approximate the mockup
-- [ ] You are required to create a branch for each of the elements listed under Elements (above) and once the element is complete, merge the branch into your Master branch.
 
 
 ## Details

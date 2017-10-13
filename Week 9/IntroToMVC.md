@@ -37,4 +37,6 @@
 - [W3Schools - MVC](http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/aspnet/mvc_intro.asp.html)
 - [W3Schools - Razor](http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/aspnet/razor_intro.asp.html)
 - [Suggestion Box](https://docs.google.com/presentation/d/1FX787R7R9UrSFlbf6RnrRObsaqW_5yXV1TiFsycxEWY/edit#slide=id.g1101e320aa_0_153)
+- [Bookshelf](https://docs.google.com/presentation/d/1C9v9Upx7NWePFbh5kO06GSQnuxdyeJwFVAWsTKHzgdw/edit#slide=id.g1373783e1c_0_19)
+- [Migrations](https://docs.google.com/presentation/d/14Mf60EoUVF5ple2oUwMZKpspd2Bk8QFbJXazMCHWQcg/edit?usp=sharing)
 

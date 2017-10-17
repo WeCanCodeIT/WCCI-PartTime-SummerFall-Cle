@@ -126,7 +126,9 @@ Road Map
 - Here is a link to the [Road Map](https://docs.google.com/spreadsheets/d/1VyAQAxtouDMwlcVZy1FaSFs1LpUIxEK-s5OD38Dl7Ro)
 
 Instructor Emails:
-- Jordan@wecancodeit.org
+- Mel@wecancodeit.org
+- Kyle@wecancodeit.org
+- Jim@wecancodeit.org
 - Lily@wecancodeit.org
 - Anne@wecancodeit.org (Campus Director)
 

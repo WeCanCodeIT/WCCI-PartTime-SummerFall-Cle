@@ -9,7 +9,7 @@
 
 ## Goals
 
-- There are 2 approaches to adding a database to our MVC projects that we will be learninge, code first and database first
+- There are 2 approaches to adding a database to our MVC projects that we will be learning, code first and database first
 - First we will focus on code first
 - 2 reasons you may opt to use code first instead of database first are if you are starting from scratch and there is not already a database that exists or if there will be frequent changes to your tables
 

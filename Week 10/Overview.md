@@ -25,4 +25,4 @@
 - [Data Annotations for Model Validation](http://www.dotnettricks.com/learn/mvc/mvc-data-annotations-for-model-validation)
 - [ICollections, IEnumerable, ILists](https://www.codeproject.com/Articles/1070991/Difference-Between-IEnumerable-ICollection-and-ILi)
 - [Key Attribute in Code First](http://www.entityframeworktutorial.net/code-first/key-dataannotations-attribute-in-code-first.aspx)
-
+- [Navigation Properties in Entity Framework](https://forums.asp.net/t/2042836.aspx?I+m+very+confused+in+navigation+properties+in+entity+framework+how+it+works+and+how+it+usefull+)

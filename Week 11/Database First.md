@@ -16,6 +16,7 @@
 - Resources
   - [Relational Databases and Database Design](https://docs.google.com/presentation/d/1C22bQhknL34QW85iaMa5mumTprDXnzk279ErWFOo45I/edit#slide=id.p)
   - [Step-by-Step Written Tutorial on Database-First MVC](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/database-first-development/creating-the-web-application)
+  - [Buddy Classes: The Data Annotation of DataBase First Design](https://docs.google.com/presentation/d/1nlkVtWwsXdHz_6a88lq1RSKvv_jaBX5czrqr2WPhbhs/edit?usp=sharing)
 
  - Read the following resources to prepare for future work
    - [WCCI's Slides on Database-First MVC](https://docs.google.com/presentation/d/1YXyj5DEUwVsxPYez5UqyNPInWFVPbzXGn5GLcTyTIZc/edit?usp=sharing)

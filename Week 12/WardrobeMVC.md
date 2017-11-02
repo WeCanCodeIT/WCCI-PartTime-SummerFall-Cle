@@ -1,5 +1,5 @@
 # Wardrobe MVC
-## Due: 
+## Due: November 6th 2017 at 5:30pm 
 ### - [Submission Link](https://docs.google.com/forms/d/e/1FAIpQLScUEvl_ZgH_OgBu0zbg_WIvB6zBSkkXh7wfxqjv4LwLdBDxLg/viewform)
 
 ## Overview
@@ -31,6 +31,7 @@ Create a web application for managing the contents of your wardrobe. The app wil
     - [ ] Shoes
     - [ ] Accessories
   - [ ] Photo properly included where appropriate (index/detail)
+  - [ ] Each category must be populated with at least 2 items.
   - [ ] Homepage should be updated for your app
 - [ ] Bootstrap/CSS
   - [ ] Updated navbar

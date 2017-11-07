@@ -36,3 +36,7 @@ The required tasks of this assignment will lead to a very bare-bones 8-ball. You
 - Use IDs to signify special elements in your html. If you're using JavaScript use document.getElementById to target that element, then you can change the contents with the innerHTML property.  If you're using JQuery you can use JQuery selectors and the .html() fucntion.
 
 - Play around in the console to investigate the properties of elements that are modifiable.
+
+### Resources
+JSFiddle version of this game has related code
+https://docs.google.com/presentation/d/1HGAn0TQYeP9VCh5gTQA-J1i3AEQNzY033mkZTMV1HCg/edit?usp=sharing

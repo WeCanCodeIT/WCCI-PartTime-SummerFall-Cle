@@ -15,12 +15,5 @@ Make a button.
 ## Example 
 Looping 1 - 5
 * Results should be
-1
-
-2
-
-FIZZ
-
-4
-
-BUZZ
+<br/>
+1<br/>2<br/>FIZZ<br/>4<br/>BUZZ

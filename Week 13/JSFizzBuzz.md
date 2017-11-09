@@ -17,3 +17,10 @@ Looping 1 - 5
 * Results should be
 <br/>
 1<br/>2<br/>FIZZ<br/>4<br/>BUZZ
+
+
+## Stretch Tasks
+* Allow for user input to determine the number you are counting up to.<br/>
+* Allow for user input to determine the numbers used as variables for FIZZ, and BUZZ.<br/> 
+* Style your FIZZBUZZ project, adding images, changing colors, fonts, and more.<br/>
+* Extra extra stretch: Allow users to change the colors and css styles used on the web page (change to dark theme or light theme on the press of a button, for example).

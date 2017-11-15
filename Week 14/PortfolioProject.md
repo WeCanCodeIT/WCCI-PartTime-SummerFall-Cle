@@ -52,7 +52,7 @@ Your site should be responsive - it should be easily viewable on mobile, tablet,
 Incorporate some effects, using jQuery plugins, other libraries, or your own JavaScript. Some examples include:
   - [ ] Carousel of your screenshots
   - [ ] Parallax scrolling
-  - [ ] [Material Design](https://material.google.com/#) effects
+  - [ ] [SVG](https://colorlib.com/wp/svg-animations-examples/), [Material Design](https://material.google.com/#), or html [canvas](https://davidwalsh.name/canvas-demos) effects
   - [ ] Pop in elements as they are scrolled to
 
 You can include your portfolio site as one of the sites on your portfolio site!
@@ -63,6 +63,14 @@ You are encouraged to use templates as a starting point. [HTML5 UP](https://html
 You may want to use Bootstrap to get things started, but probably don't want to set it up as a full MVC project. You can get a folder complete with Bootstrap, jQuery, and some starter boilerplate HTML from http://www.initializr.com/ - just be sure to choose the **Bootstrap** version.
 
 Make sure that all the images you use are in your project folder and that you aren't just hotlinking them from the web somewhere.
+
+## Examples
+
+[Russ Petrus' non-templated portfolio](https://russpetrus.github.io/) 
+
+[Denisa Iacob's templated portfolio](https://denisaiacob25.github.io/)
+
+[Juan Granda's templated portfolio](https://juangranda.github.io/)
 
 ## Resources
 [Official GitHub Pages Reference](https://pages.github.com/)
